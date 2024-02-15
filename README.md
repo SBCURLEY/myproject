@@ -1,8 +1,8 @@
 # My Work
 
-** Principles of Data Analytics Project Work
+# Principles of Data Analytics Project Work
 
-**By Sharon Curley
+**By Sharon Curley**
 
 I work at [Meissner](https://www.meissner.com/).
 
