@@ -7,23 +7,22 @@
 ## Project Description
 
 ### About this Project
-What the project does
+ - What the project does
 
 
 
 ### Use of this Project
-Why the project is useful
+ - Why the project is useful
 
 
 
 ### Get Started
-How users can get started with the project
+ - How users can get started with the project
 
 
 
 ### Get Help
-Where users can get help with your project
-
+ - Where users can get help with your project
 
 
 
