@@ -14,30 +14,46 @@ The assessment focuses on the widely available palmerpenguins data set. The asse
 3. Load Data
    
 4. Data Exploration
-    4.1  Check for the DataFrame dimensionality with pandas .info() method
-    4.2  Selecting data by row numbers (.iloc)
-    4.3  Generate descriptive statistics with pandas .describe method
+
+    - 4.1  Check for the DataFrame dimensionality with pandas .info() method
+
+    - 4.2  Selecting data by row numbers (.iloc)
+
+    - 4.3  Generate descriptive statistics with pandas .describe method
 
 5. Cleaning the Dataset
-    5.1 Working with missing data
-    5.2 Identify missing values
-    5.3 Remove missing values
-    5.4 Check the data
+
+    - 5.1 Working with missing data
+  
+    - 5.2 Identify missing values
+
+    - 5.3 Remove missing values
+
+    - 5.4 Check the data
 
 6. Data Analysis
-   
-6.1 Univariate Analysis
-- 6.1.1 Bar Chart (Task 4)
-- 6.1.2 Stacked Bar Chart
-- 6.1.3 Histogram (Task 4)
 
-6.2 Bivariate Analysis (Project)
-- 6.2.1 Mean of data
-- 6.2.2 Bill Length vs Bill Depth
-- 6.2.3 Bill Length vs Bill Depth with Regression Line
-- 6.2.4 Bill Length vs Bill Depth by Species
-- 6.2.5 Bill Length vs Bill Depth by Species with Regression Line per Species
-- 6.2.6 Bill Length vs Bill Depth with Regression Line for Male / Female Species
+    - 6.1 Univariate Analysis
+
+      - 6.1.1 Bar Chart (Task 4)
+
+      - 6.1.2 Stacked Bar Chart
+
+      - 6.1.3 Histogram (Task 4)
+
+    - 6.2 Bivariate Analysis (Project)
+
+      - 6.2.1 Mean of data
+  
+      - 6.2.2 Bill Length vs Bill Depth
+
+      - 6.2.3 Bill Length vs Bill Depth with Regression Line
+
+      - 6.2.4 Bill Length vs Bill Depth by Species
+  
+      - 6.2.5 Bill Length vs Bill Depth by Species with Regression Line per Species
+
+      - 6.2.6 Bill Length vs Bill Depth with Regression Line for Male / Female Species
 
 7. Conclusion
 
