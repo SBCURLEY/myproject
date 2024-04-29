@@ -74,7 +74,7 @@ The dataset contains data for 344 penguins. There are 3 different species of pen
 
 ## 2. Import Libraries
 
-We require the following libraries to analyse the dataset.
+I imported the following libraries to analyse the dataset.
 
  - Pandas
 
@@ -113,7 +113,7 @@ I explore the data with the following:
 
 ## 5. Cleaning the Dataset
 
-There are missing values in this dataset, so I identified the values and removed them form teh dataset before analysis.
+There are missing values in this dataset, so I identified the values and removed them from the dataset before analysis.
 
 -isnull() method
 
@@ -209,7 +209,7 @@ There are missing values in this dataset, so I identified the values and removed
 ## 4. About Author
 - Sharon Curley
   
-    My role is a Business Systems Analyst for [Meissner Corporation](https://www.meissner.com/) - a manufacturing company in Castlebar, Co. Mayo. The systems I am supporting currently are Microsoft Dynamics 365 (ERP) for all Meissner entities (Ireland, US, Switzerland, Germany & Italy). I initially started out in functional areas like Customer Service & Supply Chain as I was lucky to be one of the first crew members on board in this company in 2020. I have moved into the IT Dept since March last year. I have a background in SAP - projects & support, so was drawn back into this area when I saw the opportunity arise within Meissner. I have a keen interest in data as when I was a functional user that was the most frustrating part of my role - trying to get meaningful data from the systems we use. I have used excel to an advanced level and started with Power BI. I see a lot of opportunities within Meissner to develop in the Data area. I am hoping I will have the skills to do so someday.
+    My role is a Business Systems Analyst for [Meissner Corporation](https://www.meissner.com/) - a manufacturing company in Castlebar, Co. Mayo. The systems I am supporting currently are Microsoft Dynamics 365 (ERP) for all Meissner entities (Ireland, US, Switzerland, Germany & Italy). I initially started out in functional areas like Customer Service & Supply Chain as I was lucky to be one of the first crew members on board in this company in 2020. I have moved into the IT Dept since March last year. I have a background in SAP - projects & support, so was drawn back into this area when I saw the opportunity arise within Meissner. I have a keen interest in data as when I was a functional user that was the most challenging part of my role - trying to get meaningful data from the systems we use. I have used excel to an advanced level and started with Power BI. I see a lot of opportunities within Meissner to develop in the Data field. I am hoping I will have the skills to do so.
 
 ![Meissner](https://www.meissner.com/wp-content/uploads/castlebar-brief-pdf-image.jpg)
 
