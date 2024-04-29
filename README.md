@@ -43,7 +43,7 @@ The assessment focuses on the widely available palmerpenguins data set. The asse
 
     - 6.2 Bivariate Analysis (Project)
 
-      - 6.2.1 Mean of data
+      - 6.2.1 Data Insight
   
       - 6.2.2 Bill Length vs Bill Depth
 
