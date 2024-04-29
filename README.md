@@ -1,5 +1,5 @@
-<h1 align="center">Higher Diploma in Science in Computing (Data Analytics)</h1>
 <h1 align="center">Principles of Data Analytics</h1>
+<h1 align="center">Palmer Penguins Exploratory Data Analysis</h1>
 
 # Description
 
